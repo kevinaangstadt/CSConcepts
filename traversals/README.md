@@ -17,9 +17,7 @@ Our chosen format is designed to be simple to parse:
 
 1. The first line of the file is a single integer, which specifies the number of
 nodes in the graph.
-
 1. The remaining lines indicate the edges:
-  
   * All integers on a line are seperated by a space
   * The first integer is the ID of the source node of an edge 
   * The remaining integers are all destinations of edges starting from the source
@@ -36,6 +34,8 @@ nodes in the graph.
 
 1. Perform the DFS exercises with and _without_ recursion
 1. Perform the BFS exercise without using a queue
+1. Implement these exercises in at least one compiled language and one
+interpreted language
 
 ## Thought experiments
 
