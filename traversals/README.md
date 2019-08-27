@@ -28,7 +28,7 @@ nodes in the graph.
 
 1. Print out the node IDs using a pre-order depth-first search
 1. Print out the node IDs using a post-order depth-first search
-1. Print out the node IDs using a breath-first search
+1. Print out the node IDs using a breadth-first search
 
 ## Bonus Exercises
 
